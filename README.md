@@ -19,7 +19,7 @@ $ brew install lolcode
 
 If not on a Mac:
 
-1. Go to https://github.com/justinmeza/httpd.lol and read the docs
+1. Go to http://www.lolcode.org/ and read the docs
 2. ???
 3. Profit
 
