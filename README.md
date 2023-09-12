@@ -1,6 +1,6 @@
 # htmx + lolcode = ❤️
 
-![Proof](./proof.gif | width=400)
+![Proof](./proof.gif)
 
 Tailwind, htmx, httpd.lol, and LOLCODE. THHL?
 
